@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushdhar&" alt="ankushdhar" /></p>
 
-![](https://leetcard.jacoblin.cool/ankushdhar20?cache=0)
+![](https://leetcard.jacoblin.cool/ankushdhar20?ext=heatmap)
