@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushdhar&label=Profile%20views&color=0e75b6&style=flat" alt="ankushdhar" /> </p>
 
-- 🌱 I’m currently learning **Java, DSA**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, DSA**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **ankushdhar20@gmail.com**
 
